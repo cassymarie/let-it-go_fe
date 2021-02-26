@@ -1,5 +1,5 @@
 'use strict'
-const base_url = 'http://localhost:3000/'
+const base_url = 'https://let-that-go.herokuapp.com/'
 
 // ------------------------------------------------------------------
 // OBJECT 
